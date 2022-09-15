@@ -19,7 +19,40 @@
 
 My name's Vadim. I'm 25. I wanna learn js to become front-end developer. Now I work in small privat company in Belarus. I use sap for my current job.
 
+# **Skills**
+*******************
 
+* HTML
+* Git
+* Sap
+* CSS
+* JavaScript (Basic)
+
+# **Code Example**
+********************
+
+```
+let amountMonths = prompt('Сколько месяцев в году?', '');
+
+if (amountMonths == 12) {
+  alert( 'Верно' );
+} else {
+  alert( 'Неверно!' );
+}
+```
+# **Experience**
+********************
+
+# **Education**
+********************
+
+* HTML/CSS
+* jS (in process...)
+
+# **Languages**
+*********************
+* Russian
+* English - A2
 
 
 
